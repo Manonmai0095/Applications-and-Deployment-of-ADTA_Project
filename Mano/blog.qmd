@@ -1,0 +1,19 @@
+---
+title: "Blog"
+---
+
+Welcome to my blog! Here I share my thoughts on topics I'm passionate about.
+
+## Posts
+
+### \[Lorem Ipsum Dolor Sit Amet\]
+
+*Posted on Date*
+
+An excerpt from the post to spark interest.
+
+### \[Consectetur Adipiscing Elit\]
+
+*Posted on Date*
+
+An excerpt from the post to spark interest.
