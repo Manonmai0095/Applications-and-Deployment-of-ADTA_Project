@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+## Manonmai Palavalasa
+
+I am a Master's student with a passion for Data Scientist. With a background in Bachelors, I bring a unique perspective to Data Science.
+
+### Contact Me
+
+Feel free to reach out for collaborations or just a chat:
+
+-   Email: manonmaipalavalasa.95\@gmail.com
+-   Phone: +1 469-288-1838
+-   LinkedIn: <https://www.linkedin.com/in/manonmai-palavalasa-a053b4271/>
+-   Github: <https://github.com/Manonmai0095>

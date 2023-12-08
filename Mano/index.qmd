@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+# Welcome to My Portfolio
+
+Hello, I'm Manonmai Palavalasa. Welcome to my online space where I share my work, ideas, and projects. Currently pursuing my Masters of Science in Advanced Data Analytics at the University of North Texas. I completed my Bachelors of Techonlogy in Computer Science at Andhra University,India. I had 5 years of past experience in Microsoft Dynamics 365 F&O(SCM) as a Functional Consultant ,Power Bi, Qlik (reporting tools) as a Visualization Developer.
+
+## What I Do
+
+Competent in Enterprise Resource Planning, writing documentation, Supply chain managemnet, procurement and sourcing, and direct interaction with customers & vendors.
+
+# skills
+
+Proficient in Microsoft Dynamics 365, PowerBi,Qlik and Microsoft Office.

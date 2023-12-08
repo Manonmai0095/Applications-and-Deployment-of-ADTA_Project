@@ -1,0 +1,60 @@
+---
+title: "Blog"
+---
+
+Welcome to my blog! Here I share my thoughts on topics I'm passionate about.
+
+## Posts
+
+December 8, 2023
+
+---
+title: "The Importance of R in AI"
+output:
+  html_document:
+    css: styles.css
+---
+
+# The Importance of R in AI
+
+In the generation of Artificial Intelligence (AI), where data is the only thing plays a vital role in programming languages like R. R, works with its statistical and data analysis tools is used for the development of AI.
+
+### **The R and Deep Learning**
+
+In AI(Artificial Intelligence), R plays a vital role with deep learning frameworks like TensorFlow and Keras. It helps the AI not to lost in translation, maintaining a perfect balance between understanding and complexity.
+
+# Using Keras with R for Neural Networks
+
+library(keras) model \<- keras_model_sequential() %\>% layer_dense(units = 64, activation = 'relu', input_shape = c(1000)) %\>% layer_dense(units = 10, activation = 'softmax')
+
+# Load necessary libraries
+
+library(rpart) library(rpart.plot)
+
+# Load the Iris dataset
+
+data(iris)
+
+# Explore the first few rows of the dataset
+
+head(iris)
+
+# Split the data into training and testing sets
+
+set.seed(123) indices \<- sample(1:nrow(iris), 0.7 \* nrow(iris)) train_data \<- iris\[indices, \] test_data \<- iris\[-indices, \]
+
+# Build a decision tree model
+
+model \<- rpart(Species \~ ., data = train_data, method = "class")
+
+# Visualize the decision tree
+
+rpart.plot(model, box.palette = "auto")
+
+# Make predictions on the test set
+
+predictions \<- predict(model, test_data, type = "class")
+
+# Evaluate the accuracy of the model
+
+accuracy \<- sum(predictions == test_data\$Species) / nrow(test_data) cat("Accuracy:", round(accuracy \* 100, 2), "%\n")
